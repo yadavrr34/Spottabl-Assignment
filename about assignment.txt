@@ -1,0 +1,5 @@
+DATABASE TYPE:  i have used mysql database in my assignment .In this we consider email as primery key .
+
+
+Code +how to run program:  I have written my code in python language .So i am using python IDLE to run my code.I python file name
+ is spottabl.py and i am storing the result in csv file using  python csv file writer .Result file name as Spottabl_data_results.csv.
